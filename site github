@@ -27,7 +27,7 @@
 
        <p> eu estou aprendendo a programar! </p>
        
-          <button>Clique aqui!</button>
+          <button onclick="alert('Voce Clicou no botão!')" clique aqui! </button>
 
 
 </body>
